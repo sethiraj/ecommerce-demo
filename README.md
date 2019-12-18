@@ -1,3 +1,3 @@
 # ecommerce-demo
 
-This is a ecommerce demo code test
+This is a ecommerce demo code
